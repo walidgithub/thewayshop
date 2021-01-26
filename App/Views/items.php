@@ -19,7 +19,7 @@
 <div class="contact-box-main">
 <?php
     if ($errors1){
-        $errortext = 'يوجد صنف بنفس الاسم';
+        $errortext = 'يوجد صنف بنفس الاسـم';
         ?>
         <div class="form-error alert alert-danger">
             <span><?= $errortext ?></span>
