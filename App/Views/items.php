@@ -27,7 +27,7 @@
         <?php
     }
     elseif ($errors2){
-        $errortext = 'خطأ . تم حذف بيانات المحل';
+        $errortext = 'خطـأ . تم حذف بيانات المحل';
         ?>
         <div class="form-error alert alert-danger">
             <span><?= $errortext ?></span>
